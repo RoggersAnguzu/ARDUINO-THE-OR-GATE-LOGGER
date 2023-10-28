@@ -1,7 +1,7 @@
 # ARDUINO-THE-OR-GATE-LOGGER
 This a an Arduino Bases system that works as an Or Gate Logger for a Motor and a LED Display
 Arduino OR Gate Logger.
-
+![image](https://github.com/RoggersAnguzu/ARDUINO-THE-OR-GATE-LOGGER/assets/141458053/cf64e71a-822e-4068-bd01-a576bf6dbbcf)
 ![image](https://github.com/RoggersAnguzu/ARDUINO-THE-OR-GATE-LOGGER/assets/141458053/ed1cbc97-aef7-4689-bb30-3ff35849e340)
 # Description:
 This Arduino program reads values from various pins and uses them to control an OR gate. The program then logs these values to the serial monitor.
